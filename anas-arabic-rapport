@@ -1,0 +1,383 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>ANAS Arabic — Audit international SEO, AEO & GEO 2026</title>
+<meta name="description" content="Strategic SEO, AEO, GEO, international market, competitor and backlink audit for ANAS Arabic.">
+<style>
+:root{--navy:#10233f;--blue:#2563eb;--sky:#eaf2ff;--ink:#182230;--muted:#64748b;--line:#dbe3ee;--green:#087443;--greenbg:#eaf8f0;--amber:#9a5b00;--amberbg:#fff6df;--red:#b42318;--redbg:#fff0ef;--bg:#f6f8fb;--white:#fff}
+*{box-sizing:border-box} body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.65 Inter,Segoe UI,Arial,sans-serif}
+.wrap{max-width:1180px;margin:auto;padding:0 28px}
+.hero{background:linear-gradient(135deg,#0d1f38,#183e73);color:#fff;padding:64px 0 52px}
+.hero .eyebrow{letter-spacing:.12em;text-transform:uppercase;font-size:12px;opacity:.78}
+h1{font-size:42px;line-height:1.12;margin:12px 0 14px;max-width:850px}
+.hero p{font-size:18px;max-width:820px;color:#dce9fb;margin:0}
+.meta{display:flex;gap:10px;flex-wrap:wrap;margin-top:24px}
+.pill{border:1px solid rgba(255,255,255,.22);padding:7px 11px;border-radius:999px;font-size:12px;background:rgba(255,255,255,.08)}
+main{padding:34px 0 70px}.grid{display:grid;grid-template-columns:repeat(4,1fr);gap:14px;margin-bottom:30px}
+.card{background:#fff;border:1px solid var(--line);border-radius:14px;padding:20px;box-shadow:0 2px 10px rgba(15,35,63,.04)}
+.kpi b{font-size:28px;color:var(--navy);display:block}.kpi span{font-size:12px;color:var(--muted)}
+section{background:#fff;border:1px solid var(--line);border-radius:16px;padding:30px;margin:20px 0}
+h2{font-size:27px;color:var(--navy);margin:0 0 12px}h3{font-size:19px;color:var(--navy);margin:24px 0 8px}
+p{margin:8px 0 14px}.lead{font-size:17px;color:#3c4a5d}
+ul,ol{padding-left:22px}.callout{border-left:4px solid var(--blue);background:var(--sky);padding:15px 17px;border-radius:8px;margin:16px 0}
+.warn{border-left-color:var(--red);background:var(--redbg)}.good{border-left-color:var(--green);background:var(--greenbg)}.amber{border-left-color:#d18a00;background:var(--amberbg)}
+table{width:100%;border-collapse:collapse;margin:15px 0;font-size:13px}th,td{padding:11px 10px;border-bottom:1px solid var(--line);vertical-align:top;text-align:left}th{background:#f2f5f9;color:var(--navy)}
+.badge{display:inline-block;padding:3px 8px;border-radius:999px;font-size:11px;font-weight:700}.critical{background:#ffe0dd;color:#9f1d13}.high{background:#fff0c8;color:#8a5100}.med{background:#e7f0ff;color:#1d4ed8}.low{background:#e8f7ef;color:#08683b}
+a{color:#1558c0;text-decoration:none}a:hover{text-decoration:underline}
+.source{font-size:12px;color:var(--muted);margin-top:7px}.source a{overflow-wrap:anywhere}
+.toc{columns:2}.toc li{margin:6px 0}
+.two{display:grid;grid-template-columns:1fr 1fr;gap:18px}.three{display:grid;grid-template-columns:repeat(3,1fr);gap:15px}
+footer{background:#0d1f38;color:#cbd8ea;padding:32px 0;font-size:12px}.small{font-size:12px;color:var(--muted)}
+@media(max-width:800px){h1{font-size:32px}.grid,.three,.two{grid-template-columns:1fr}.toc{columns:1}}
+</style>
+</head>
+<body>
+<header class="hero">
+<div class="wrap">
+<div class="eyebrow">Rapport destiné au propriétaire · Croissance organique uniquement</div>
+<h1>ANAS Arabic — Audit international SEO, AEO & GEO</h1>
+<p>Audit stratégique du site actuel, des fondations SEO techniques, du marché international de l’apprentissage de l’arabe, des concurrents, des opportunités d’autorité et de backlinks, ainsi que feuille de route pour faire d’ANAS Arabic une entité clairement comprise, citée et recommandée par les moteurs de recherche et les systèmes d’IA.</p>
+<div class="meta"><span class="pill">Date de l’audit : 27 septembre 2026</span><span class="pill">Périmètre : SEO · AEO · GEO</span><span class="pill">Aucune publicité payante</span><span class="pill">Orientation marché international</span></div>
+</div>
+</header>
+
+<main class="wrap">
+<div class="grid">
+<div class="card kpi"><b>🔴 Critical</b><span>Homepage crawl/rendering needs investigation</span></div>
+<div class="card kpi"><b>🌍 Global</b><span>Arabic learning is an international market</span></div>
+<div class="card kpi"><b>🤖 AEO</b><span>Answer-first content is currently underdeveloped</span></div>
+<div class="card kpi"><b>🔗 Autorité</b><span>Relevant education/language links should be earned systematically</span></div>
+</div>
+
+<section>
+<h2>Executive Summary</h2>
+<p class="lead">ANAS Arabic se présente actuellement principalement sous la forme d’une landing page. C’est utile pour présenter l’offre, mais cette structure n’est pas encore suffisamment développée pour constituer une véritable architecture SEO organique.</p>
+<div class="callout warn"><strong>Constat technique le plus important :</strong> the live homepage currently returns a one-line JavaScript shell to a text crawler: “You need to enable JavaScript to run this app.” Cela ne signifie pas automatiquement que Google ne peut pas indexer le site, mais il s’agit d’un signal d’alerte technique important : la réponse HTML initiale n’expose pas clairement le contenu pédagogique principal, les titres et les signaux contextuels qu’un crawler devrait recevoir.</div>
+<p>L’objectif stratégique doit donc être de passer d’une <strong>simple landing page</strong> to a <strong>plateforme pédagogique et de connaissances sur l’apprentissage de l’arabe, réellement exploitable par les moteurs de recherche</strong>. The site should have dedicated pages for learning intent, course levels, Arabic skills, FAQs and educational resources. This creates many more entry points for Google and AI systems while also making the product easier to understand.</p>
+<p>À l’international, le marché concurrentiel est déjà mature : Preply and italki compete around tutors, ArabicPod101 around a large self-learning library, Arab Academy around structured Arabic education, and platforms such as AnyArabic around large multi-dialect/course libraries.</p>
+<div class="callout good"><strong>Opportunité stratégique :</strong> ANAS Arabic n’a pas besoin de copier ces acteurs. It can build a clear proprietary teaching identity around a structured learning path, strong educational content, instructor expertise, practical Arabic and an integrated free-to-paid organic funnel.</div>
+</section>
+
+<section>
+<h2>1. 1. Audit du site actuel</h2>
+<table>
+<tr><th>Domaine</th><th>Constat</th><th>Priorité</th><th>Pourquoi c’est important</th></tr>
+<tr><td>HTML initial</td><td>La page d’accueil expose actuellement essentiellement une coquille JavaScript au crawler.</td><td><span class="badge critical">CRITIQUE</span></td><td>Les moteurs de recherche ont besoin d’un contexte crawlable : title, headings, contenu, liens et données structurées.</td></tr>
+<tr><td>Architecture du site</td><td>La structure actuelle est essentiellement celle d’une landing page et non d’une plateforme pédagogique thématique.</td><td><span class="badge critical">CRITIQUE</span></td><td>Une seule page ne peut pas couvrir l’ensemble de la demande internationale liée à l’apprentissage de l’arabe.</td></tr>
+<tr><td>Couverture sémantique</td><td>Il manque des pages dédiées aux recherches génériques, par compétence, par niveau et par intention.</td><td><span class="badge high">ÉLEVÉE</span></td><td>Les différentes intentions de recherche nécessitent des pages pertinentes et dédiées.</td></tr>
+<tr><td>Maillage interne</td><td>Le site doit mettre en place une architecture claire : sujet → leçon → cours → conversion.</td><td><span class="badge high">ÉLEVÉE</span></td><td>Le maillage interne distribue la pertinence et aide les utilisateurs et les crawlers à comprendre le parcours pédagogique.</td></tr>
+<tr><td>Profondeur éditoriale</td><td>Il faut construire une bibliothèque de ressources utiles consacrées à l’apprentissage de l’arabe.</td><td><span class="badge high">ÉLEVÉE</span></td><td>Le contenu pédagogique crée de nouvelles portes d’entrée organiques et développe l’autorité.</td></tr>
+<tr><td>SEO international</td><td>Forte opportunité en anglais dans un premier temps, puis sur des marchés localisés sélectionnés.</td><td><span class="badge high">ÉLEVÉE</span></td><td>Les apprenants de l’arabe sont répartis en Amérique du Nord, en Europe, en Asie et dans d’autres marchés.</td></tr>
+<tr><td>AEO/GEO</td><td>Il faut développer des réponses concises, des signaux d’entité, des FAQ, des informations sur l’auteur/expert et des contenus riches en preuves.</td><td><span class="badge high">ÉLEVÉE</span></td><td>AI search systems need clear, extractable answers and trustworthy source context.</td></tr>
+</table>
+</section>
+
+<section>
+<h2>2. 2. Pourquoi le modèle de landing page doit évoluer</h2>
+<p>Une landing page peut être excellente pour la conversion, mais elle reste limitée en tant qu’écosystème SEO complet. La demande de recherche se divise en centaines de questions et d’intentions :</p>
+<div class="three">
+<div class="card"><h3>Générique</h3><p>Learn Arabic online, Arabic course online, Arabic lessons online.</p></div>
+<div class="card"><h3>Débutant</h3><p>Alphabet arabe, Prononciation de l’arabe, Arabe pour débutants, basic Arabic words.</p></div>
+<div class="card"><h3>Compétences</h3><p>Grammaire arabe, reading, writing, speaking, vocabulary, conversation.</p></div>
+</div>
+<div class="three">
+<div class="card"><h3>Type d’arabe</h3><p>Arabe standard moderne, spoken Arabic and potentially dialect-specific learning.</p></div>
+<div class="card"><h3>Cas d’usage</h3><p>Arabic for travel, work, study, family, culture and religious/heritage learning.</p></div>
+<div class="card"><h3>Questions</h3><p>How difficult is Arabic? How long does Arabic take? What Arabic should beginners learn?</p></div>
+</div>
+<div class="callout"><strong>Évolution recommandée :</strong> Conserver la landing page comme page commerciale principale, mais l’entourer d’une architecture pédagogique crawlable. The homepage should become the hub, not the entire website.</div>
+</section>
+
+<section>
+<h2>3. 3. Architecture SEO recommandée</h2>
+<pre style="background:#f4f7fb;padding:18px;border-radius:10px;overflow:auto">/
+├── learn-arabic-online/
+├── arabic-for-beginners/
+├── arabic-alphabet/
+├── arabic-pronunciation/
+├── arabic-grammar/
+├── arabic-vocabulary/
+├── arabic-reading/
+├── arabic-writing/
+├── arabic-speaking/
+├── arabic-conversation/
+├── modern-standard-arabic/
+├── courses/
+│   ├── beginner/
+│   ├── elementary/
+│   ├── intermediate/
+│   └── advanced/
+├── free-arabic-lessons/
+├── blog/
+├── faq/
+├── about/
+└── contact/</pre>
+<p>Exact URLs should follow the final product and curriculum structure. The principle is more important than the exact slug: <strong>one meaningful search intent → one strong page → one clear internal path to the relevant lesson/course.</strong></p>
+</section>
+
+<section>
+<h2>4. 4. SEO technique — Corrections à effectuer</h2>
+<table>
+<tr><th>Élément technique</th><th>Action</th><th>Priorité</th></tr>
+<tr><td>JavaScript rendering / SSR</td><td>Ensure important homepage and course content is present in server-rendered HTML or otherwise reliably rendered for search engines. Test with Google Search Console URL Inspection.</td><td><span class="badge critical">CRITIQUE</span></td></tr>
+<tr><td>Title & meta</td><td>Unique, intent-specific titles and descriptions for every indexable page.</td><td><span class="badge high">ÉLEVÉE</span></td></tr>
+<tr><td>H1/H2</td><td>One descriptive H1 per page; supporting H2/H3 hierarchy.</td><td><span class="badge high">ÉLEVÉE</span></td></tr>
+<tr><td>Canonical</td><td>Self-referencing canonicals on primary pages; avoid duplicate URL versions.</td><td><span class="badge high">ÉLEVÉE</span></td></tr>
+<tr><td>XML sitemap</td><td>Include only canonical, indexable URLs; submit to Search Console.</td><td><span class="badge high">ÉLEVÉE</span></td></tr>
+<tr><td>Robots.txt</td><td>Verify that important pages/assets are not blocked.</td><td><span class="badge high">ÉLEVÉE</span></td></tr>
+<tr><td>Internal links</td><td>Build contextual links between lessons, guides, courses and FAQs.</td><td><span class="badge high">ÉLEVÉE</span></td></tr>
+<tr><td>Schema</td><td>Organization, WebSite, BreadcrumbList, Course, Article and appropriate FAQ markup.</td><td><span class="badge high">ÉLEVÉE</span></td></tr>
+<tr><td>Images</td><td>Descriptive alt text, dimensions, compression and appropriate loading behavior.</td><td><span class="badge med">MOYENNE</span></td></tr>
+<tr><td>Core Web Vitals</td><td>Measure mobile/desktop LCP, INP and CLS on real pages after architecture changes.</td><td><span class="badge med">MOYENNE</span></td></tr>
+<tr><td>404/redirects</td><td>Maintain clean 301 redirects when URLs change; avoid redirect chains.</td><td><span class="badge med">MOYENNE</span></td></tr>
+<tr><td>Security/index hygiene</td><td>Prevent staging, admin, duplicate and utility URLs from entering the index.</td><td><span class="badge med">MOYENNE</span></td></tr>
+</table>
+</section>
+
+<section>
+<h2>5. 5. Marché international — Où se trouve la demande</h2>
+<p>Arabic is not only an Arab-world language-learning market. Current research by Qatar Foundation International and the Institute of International Education specifically maps Arabic education across Canada, Ireland, Italy, Sweden, the UK and the US. The British Academy has also documented Arabic as a major language of interest in UK education.</p>
+<p>QFI has reported that students in the UK, Europe and the US are increasingly interested in Arabic as a global language, with motivations including academic, cultural, personal and professional reasons.</p>
+<table>
+<tr><th>Market</th><th>Strategic rationale</th><th>Recommended language</th><th>Priorité for SEO research</th></tr>
+<tr><td>États-Unis</td><td>Large education ecosystem, Arabic programs and diverse learner motivations.</td><td>Anglais</td><td><span class="badge high">VERY ÉLEVÉE</span></td></tr>
+<tr><td>Royaume-Uni</td><td>Arabic is identified by the British Council as one of the UK's strategically important future languages; active school/university ecosystem.</td><td>Anglais</td><td><span class="badge high">VERY ÉLEVÉE</span></td></tr>
+<tr><td>France</td><td>Strong Arabic/Français cultural and educational connection; Français-language acquisition opportunity.</td><td>Français</td><td><span class="badge high">VERY ÉLEVÉE</span></td></tr>
+<tr><td>Allemandy</td><td>Strong language-learning culture and established Arabic education market.</td><td>Allemand + Anglais</td><td><span class="badge high">ÉLEVÉE</span></td></tr>
+<tr><td>Canada</td><td>Arabic education is explicitly covered in current international research; bilingual Anglais/Français acquisition opportunity.</td><td>Anglais + Français</td><td><span class="badge high">ÉLEVÉE</span></td></tr>
+<tr><td>Australie</td><td>Established paid Arabic-learning and university education ecosystem.</td><td>Anglais</td><td><span class="badge med">MOYENNE-ÉLEVÉE</span></td></tr>
+<tr><td>Pays-Bas / Belgique / Suisse / Nordics</td><td>Smaller individual markets but relevant multilingual audiences.</td><td>Anglais + local language</td><td><span class="badge med">MOYENNE</span></td></tr>
+<tr><td>Malaisie / Indonésie / Singapour</td><td>Important non-Arab markets with Arabic/Quranic learning demand.</td><td>Anglais + local language</td><td><span class="badge med">MOYENNE-ÉLEVÉE</span></td></tr>
+</table>
+<p class="small">This is a strategic market segmentation, not a claimed Google search-volume ranking. Exact country prioritization should be validated with Google Keyword Planner/Search Console data before allocating content resources.</p>
+</section>
+
+<section>
+<h2>6. 6. Analyse de la concurrence</h2>
+<table>
+<tr><th>Competitor</th><th>Core model</th><th>What they do well</th><th>Strategic lesson for ANAS</th></tr>
+<tr><td><a href="https://preply.com/en/online/arabic-tutors" target="_blank">Preply</a></td><td>Tutor marketplace</td><td>Huge tutor choice, personalization, flexible lessons.</td><td>Ne pas chercher à concurrencer sur tutor marketplace breadth. Compete on a coherent proprietary learning path.</td></tr>
+<tr><td><a href="https://www.arabicpod101.com/" target="_blank">ArabicPod101</a></td><td>Audio/video learning library</td><td>Large content volume, bite-sized lessons, vocabulary and learning pathways.</td><td>Build a smaller but highly coherent and authoritative curriculum rather than random content volume.</td></tr>
+<tr><td><a href="https://www.arabacademy.com/online-arabic-courses/" target="_blank">Arab Academy</a></td><td>Structured online school</td><td>Leveled MSA, Egyptian and Quranic options; established educational positioning.</td><td>Curriculum structure and progression are essential trust signals.</td></tr>
+<tr><td><a href="https://anyarabic.com/" target="_blank">AnyArabic</a></td><td>Large self-paced library</td><td>150 courses, 100+ native instructors, MSA, dialects and classical/Quranic content.</td><td>ANAS needs a distinctive methodology rather than trying to win on course count.</td></tr>
+<tr><td>iTalki</td><td>Tutor marketplace</td><td>Large supply of teachers and flexible one-to-one learning.</td><td>Focus on structured outcomes and owned content instead of marketplace supply.</td></tr>
+<tr><td>Duolingo / Memrise / Pimsleur</td><td>Mass-market language les applications</td><td>Strong brands, product UX, habit loops and large content/technology investment.</td><td>ANAS should own the human/expert Arabic-teaching authority position.</td></tr>
+</table>
+<p>Les comparaisons actuelles de 2026 continuent d’identifier les marketplaces de professeurs, ArabicPod101, Arab Academy and specialized Arabic providers as major categories in the online Arabic market.</p>
+</section>
+
+<section>
+<h2>7. 7. Positionnement différenciant qu’ANAS peut développer</h2>
+<div class="two">
+<div>
+<h3>Ne pas chercher à concurrencer sur</h3>
+<ul><li>Number of tutors</li><li>Number of courses</li><li>Number of dialects immediately</li><li>App-store scale</li><li>Générique “learn Arabic” messaging</li></ul>
+</div>
+<div>
+<h3>Construire autour de</h3>
+<ul><li>A recognizable teaching methodology</li><li>A clear beginner-to-advanced pathway</li><li>Practical speaking + reading + grammar</li><li>Instructor expertise and visible authorship</li><li>Free educational resources that lead naturally into the curriculum</li></ul>
+</div>
+</div>
+<div class="callout good"><strong>Positioning principle:</strong> ANAS Arabic should become a trusted Arabic-learning authority, not simply another course landing page.</div>
+</section>
+
+<section>
+<h2>8. 8. AEO — Answer Engine Optimization</h2>
+<p>L’AEO consiste à structurer les contenus afin que les moteurs de réponse puissent extraire une réponse directe et utile, tout en comprenant clairement sa source.</p>
+<h3>Format des contenus</h3>
+<ul>
+<li>Répondre directement à la question dans les 40 à 70 premiers mots.</li>
+<li>Utiliser des titres formulés comme de vraies questions.</li>
+<li>Compléter la réponse courte par des preuves, exemples, tableaux ou explications étape par étape.</li>
+<li>Présenter clairement l’auteur/formateur et son expertise.</li>
+<li>Utiliser les données structurées lorsque cela est pertinent.</li>
+<li>Relier chaque réponse à une leçon ou à un cours plus approfondi.</li>
+</ul>
+<h3>Priorité question clusters</h3>
+<div class="three">
+<div class="card"><strong>Débutant</strong><p>How do I start learning Arabic? What should I learn first? Is Arabic hard?</p></div>
+<div class="card"><strong>Language choice</strong><p>What is MSA? Should I learn MSA or a dialect? Which Arabic is best for beginners?</p></div>
+<div class="card"><strong>Compétences</strong><p>How do I learn Lecture en arabe? How do Arabic vowels work? How do I improve pronunciation?</p></div>
+</div>
+<div class="three">
+<div class="card"><strong>Time</strong><p>How long does it take to learn Arabic? How many words do I need?</p></div>
+<div class="card"><strong>Cas d’usages</strong><p>How can I learn Arabic for travel, work or conversation?</p></div>
+<div class="card"><strong>Comparison</strong><p>Online course vs tutor? MSA vs dialect? Self-study vs guided learning?</p></div>
+</div>
+</section>
+
+<section>
+<h2>9. 9. GEO — Generative Engine Optimization</h2>
+<p>Le GEO doit permettre aux systèmes d’IA d’identifier ANAS Arabic comme une entité claire, fiable et facilement citable.</p>
+<table>
+<tr><th>Signal</th><th>Implementation</th></tr>
+<tr><td>Entity identity</td><td>Create a strong À propos page defining ANAS Arabic, the instructor, mission, methodology, audience and curriculum.</td></tr>
+<tr><td>Author authority</td><td>Give educational articles a named author/instructor, biography, credentials, teaching experience and relevant social/academic references.</td></tr>
+<tr><td>First-party evidence</td><td>Publish original lessons, explanations, examples, pronunciation material, curriculum frameworks and learner resources.</td></tr>
+<tr><td>Third-party corroboration</td><td>Earn mentions from educational institutions, Arabic-learning resources, language blogs and relevant publications.</td></tr>
+<tr><td>Structured information</td><td>Use Organization, Person, Course, Article and BreadcrumbList structured data where valid.</td></tr>
+<tr><td>Question coverage</td><td>Build a comprehensive Arabic-learning knowledge base around real learner questions.</td></tr>
+<tr><td>Consistent entity name</td><td>Use “ANAS Arabic” consistently across the site, profiles, citations and external mentions.</td></tr>
+<tr><td>Machine-readable content</td><td>Keep important information in accessible HTML rather than hiding core content inside client-only UI.</td></tr>
+</table>
+</section>
+
+<section>
+<h2>10. 10. Stratégie de contenu — Le moteur de croissance organique</h2>
+<p>The blog should not become a generic news blog. It should become an <strong>Arabic-learning knowledge base</strong>.</p>
+<table>
+<tr><th>Pillar</th><th>Example topics</th></tr>
+<tr><td>Arabe pour débutants</td><td>Alphabet arabe, first 100 words, basic sentences, pronunciation, vowels.</td></tr>
+<tr><td>Grammar</td><td>Pronouns, verb forms, sentence structure, gender, definite article, cases.</td></tr>
+<tr><td>Speaking</td><td>Greetings, introductions, travel conversations, everyday expressions.</td></tr>
+<tr><td>Reading & writing</td><td>How to read Arabic, letter forms, connected letters, reading exercises.</td></tr>
+<tr><td>Vocabulary</td><td>Frequency lists, themed vocabulary, common verbs, everyday vocabulary.</td></tr>
+<tr><td>MSA vs dialect</td><td>What MSA is, dialect differences, which Arabic to learn first.</td></tr>
+<tr><td>Learning methodology</td><td>Study plans, spaced repetition, pronunciation practice, listening practice.</td></tr>
+<tr><td>Culture</td><td>Arabic expressions, etiquette, cultural context and language usage.</td></tr>
+</table>
+<p><strong>Target:</strong> build 30–50 genuinely useful evergreen resources before expanding into many low-value pages.</p>
+</section>
+
+<section>
+<h2>11. 11. Stratégie de backlinks — Ce que nous devons rechercher</h2>
+<div class="callout warn"><strong>Important:</strong> “paid backlinks” should not mean buying large quantities of dofollow links or participating in link schemes. The safest paid approach is to pay for legitimate editorial exposure, sponsorship, partnerships or PR where the commercial relationship is disclosed and the link is handled according to search-engine guidelines.</div>
+<h3>Opportunités de backlinks gratuits / obtenus naturellement</h3>
+<table>
+<tr><th>Target</th><th>Approach</th><th>Value</th></tr>
+<tr><td><a href="https://earabic.imes.ed.ac.uk/portal-category/website-directory/" target="_blank">Portail e-Arabic Learners de l’Université d’Édimbourg</a></td><td>Offer a genuinely useful Arabic-learning resource for possible inclusion in their resource ecosystem.</td><td>Très élevée relevance / institutional authority</td></tr>
+<tr><td><a href="https://openarabic.org/arabic-learning-resources/index.html" target="_blank">OpenArabic</a></td><td>Submit a high-quality resource suggestion when it genuinely adds value to their learner resource pages.</td><td>Élevée relevance</td></tr>
+<tr><td><a href="https://www.qfi.org/blog/" target="_blank">Qatar Foundation International</a></td><td>Build relationships through original Arabic education insights, teacher resources or expert contributions; do not request a link without editorial value.</td><td>Très élevée relevance</td></tr>
+<tr><td><a href="https://classroad.org/al-masdar/" target="_blank">Al-Masdar / CLASSRoad</a></td><td>Create open educational resources useful to Arabic teachers and learners; pursue resource inclusion/collaboration.</td><td>Très élevée relevance</td></tr>
+<tr><td><a href="https://welovearabic.wordpress.com/about/" target="_blank">We Love Arabic</a></td><td>Relevant expert contribution/resource collaboration where accepted.</td><td>Élevée topical relevance</td></tr>
+<tr><td>Arabic-learning blogs</td><td>Offer original expert articles, not spun/AI-generated guest posts.</td><td>Élevée</td></tr>
+<tr><td>Universities / Arabic departments</td><td>Provide free worksheets, pronunciation resources or beginner guides useful to students.</td><td>Très élevée</td></tr>
+<tr><td>Language-learning communities</td><td>Publish useful resources and become a cited educational contributor.</td><td>Moyenne-élevée</td></tr>
+<tr><td>YouTube / podcasts</td><td>Collaborate with language educators; obtain links from episode notes and resource pages.</td><td>Moyenne-élevée</td></tr>
+</table>
+
+<h3>Opportunités payantes / sponsorisées / commerciales à sélectionner avec prudence</h3>
+<table>
+<tr><th>Type</th><th>Recommended use</th><th>Risk control</th></tr>
+<tr><td>Sponsoring d’une publication éducative</td><td>Sponsor an educational article, webinar or learning resource with a genuine audience.</td><td>Prefer topical authority and real readership; disclose sponsorship.</td></tr>
+<tr><td>Publication sur un média spécialisé dans l’apprentissage des langues</td><td>Commission a useful expert feature or interview.</td><td>Require editorial relevance; avoid sites selling hundreds of unrelated links.</td></tr>
+<tr><td>Sponsoring de podcasts</td><td>Support an Arabic/language-learning podcast and gain brand/resource exposure.</td><td>Audience relevance matters more than domain metrics.</td></tr>
+<tr><td>Partenariat éducatif</td><td>Fund or co-create free educational material with a school, association or learning organization.</td><td>Prioritize genuine partnership and real learner benefit.</td></tr>
+<tr><td>Relations presse digitales</td><td>Pay for PR distribution/production around original research, reports or educational initiatives.</td><td>Focus on newsworthy assets and earned editorial coverage.</td></tr>
+</table>
+</section>
+
+<section>
+<h2>12. 12. Ressources qu’ANAS devrait créer pour obtenir des backlinks</h2>
+<p>Instead of asking websites for a link to a sales page, create assets that people naturally want to reference.</p>
+<div class="three">
+<div class="card"><h3>Arabic Alphabet Guide</h3><p>Interactive alphabet + pronunciation + downloadable learner sheet.</p></div>
+<div class="card"><h3>Arabic Level Test</h3><p>Free placement test with useful results and learning recommendations.</p></div>
+<div class="card"><h3>Arabic Verb Guide</h3><p>Clear reference tables and examples for learners.</p></div>
+</div>
+<div class="three">
+<div class="card"><h3>Arabic Vocabulary Lists</h3><p>Débutant frequency/themed lists with audio or examples.</p></div>
+<div class="card"><h3>Arabic Study Plan</h3><p>30-day / 90-day beginner learning roadmap.</p></div>
+<div class="card"><h3>Arabic Resources Directory</h3><p>Curated list of dictionaries, tools, books and learner resources.</p></div>
+</div>
+</section>
+
+<section>
+<h2>13. 13. Stratégie d’autorité interne</h2>
+<p>Backlinks are only one part of authority. ANAS should build <strong>topical authority</strong> through connected content.</p>
+<pre style="background:#f4f7fb;padding:18px;border-radius:10px;overflow:auto">Pillar: Apprendre l’arabe en ligne
+        ↓
+Débutant Guide
+        ↓
+Alphabet → Pronunciation → Vocabulary → Grammar
+        ↓
+Lessons / Exercises
+        ↓
+Course
+        ↓
+Enrollment / Conversion</pre>
+<p>Every informational article should have a logical next step. Every course page should link back to educational resources that demonstrate expertise.</p>
+</section>
+
+<section>
+<h2>14. 14. Contenu international et localisation</h2>
+<p>Anglais should be the first international SEO layer if it is the main acquisition language. Français is strategically important, followed by selected European/localized markets once the Anglais foundation is strong.</p>
+<table>
+<tr><th>Phase</th><th>Language</th><th>Objective</th></tr>
+<tr><td>1</td><td>Anglais</td><td>Build the main global Arabic-learning authority and content library.</td></tr>
+<tr><td>2</td><td>Français</td><td>Target Français-speaking learners with localized Arabic-learning content.</td></tr>
+<tr><td>3</td><td>Allemand</td><td>Build localized pages around high-intent Allemand Arabic-learning queries.</td></tr>
+<tr><td>4</td><td>Other markets</td><td>Use Search Console and actual conversion/organic data to select the next languages.</td></tr>
+</table>
+<p>Do not create hundreds of machine-translated pages. Each language section should have genuinely useful localized content and correct hreflang/canonical implementation.</p>
+</section>
+
+<section>
+<h2>15. 15. Feuille de route SEO / AEO / GEO sur 90 jours</h2>
+<table>
+<tr><th>Period</th><th>Travail</th><th>Résultat</th></tr>
+<tr><td>Semaines 1–2</td><td>Fix rendering/indexability; verify Search Console; sitemap; robots; canonicals; titles; metadata; schema foundation.</td><td>Search-engine-readable technical foundation.</td></tr>
+<tr><td>Semaines 3–4</td><td>Build core architecture: Learn Arabic, Débutant, skills, courses, À propos, FAQ, free lessons.</td><td>Multiple indexable search entry points.</td></tr>
+<tr><td>Mois 2</td><td>Publish 15–20 high-quality learning resources; implement internal linking; add author/entity signals.</td><td>Initial topical authority.</td></tr>
+<tr><td>Mois 2</td><td>Create linkable assets: level test, alphabet guide, study plan, vocabulary resources.</td><td>Backlink acquisition assets.</td></tr>
+<tr><td>Mois 3</td><td>Begin structured outreach to universities, Arabic resources, educators, podcasts and relevant publications.</td><td>Relevant authority mentions and links.</td></tr>
+<tr><td>Mois 3</td><td>Launch Français localization only after Anglais architecture is technically stable.</td><td>Second international acquisition layer.</td></tr>
+<tr><td>En continu</td><td>Measure indexed pages, impressions, clicks, queries, CTR, backlinks, referring domains and AI visibility.</td><td>Continuous optimization based on evidence.</td></tr>
+</table>
+</section>
+
+<section>
+<h2>16. 16. KPI à suivre par le propriétaire du projet</h2>
+<div class="three">
+<div class="card"><strong>Technical</strong><p>Indexed pages, crawl errors, rendered HTML, Core Web Vitals, sitemap health.</p></div>
+<div class="card"><strong>SEO</strong><p>Non-brand impressions, clicks, ranking queries, CTR, organic landing pages.</p></div>
+<div class="card"><strong>Autorité</strong><p>Relevant referring domains, editorial mentions, backlinks, branded searches.</p></div>
+</div>
+<div class="three">
+<div class="card"><strong>AEO</strong><p>Visibility for question-based queries and inclusion in answer-style results where measurable.</p></div>
+<div class="card"><strong>GEO</strong><p>Whether AI systems consistently identify ANAS Arabic, its instructor, methodology and resources.</p></div>
+<div class="card"><strong>Business SEO</strong><p>Organic sign-ups, free lesson registrations, course page engagement and organic conversions.</p></div>
+</div>
+</section>
+
+<section>
+<h2>17. 17. Recommandation stratégique finale</h2>
+<div class="callout good">
+<strong>ANAS Arabic doit évoluer d’une « landing page qui vend un cours d’arabe » vers un « site de référence sur l’apprentissage de l’arabe qui propose également un programme structuré ».</strong>
+</div>
+<ol>
+<li><strong>Corriger en priorité la crawlabilité et le rendu.</strong> The current JavaScript-only initial response is the highest-priority technical issue identified in this audit.</li>
+<li><strong>Construire l’architecture thématique.</strong> Create dedicated pages around beginner learning, Arabic skills, course levels and real learner questions.</li>
+<li><strong>Intégrer l’AEO/GEO à chaque page.</strong> Answer questions directly, demonstrate expertise, identify the instructor and provide structured information.</li>
+<li><strong>Créer des ressources pédagogiques originales.</strong> These become both organic search landing pages and backlink magnets.</li>
+<li><strong>Obtenir des liens provenant de sources pertinentes et faisant autorité.</strong> Prioritize universities, Arabic-learning resource portals, educators, specialist publications and genuine partnerships over generic directories.</li>
+<li><strong>Développer l’international sur la base de données réelles.</strong> Start with Anglais, then Français and other markets selected using real Search Console/keyword data.</li>
+</ol>
+<p>The competitive market proves that Arabic learning has multiple viable models—tutoring, les contenus en auto-apprentissage, les écoles proposant des parcours structurés, les plateformes spécialisées dans les dialectes and les applications. The opportunity for ANAS is to establish a recognizable educational methodology and become a trusted source that both search engines and AI systems can understand.</p>
+</section>
+
+<section>
+<h2>Sources et références de recherche</h2>
+<ul>
+<li><a href="https://www.anasarabic.com/" target="_blank">ANAS Arabic — live homepage</a> — crawler observation used for the technical audit.</li>
+<li><a href="https://preply.com/en/blog/best-online-arabic-courses/" target="_blank">Preply — Best Online Arabic Cours, 2026</a> — current competitor landscape.</li>
+<li><a href="https://preply.com/en/blog/best-arabic-tutors/" target="_blank">Preply — Arabic tutor platforms, September 2026</a> — tutoring-market comparison.</li>
+<li><a href="https://anyarabic.com/" target="_blank">AnyArabic</a> — current course/dialect model and content scale.</li>
+<li><a href="https://www.qfi.org/research/studies/survey-of-arabic-language-programs-salp/" target="_blank">Qatar Foundation International / IIE — Study of Arabic Language Programs</a> — international Arabic education research.</li>
+<li><a href="https://www.qfi.org/blog/" target="_blank">QFI Arabic education blog</a> — current Arabic education ecosystem.</li>
+<li><a href="https://www.britishacademy.ac.uk/projects/arabic-mapping-project/" target="_blank">British Academy — Arabic Mapping Project</a> — UK Arabic education landscape.</li>
+<li><a href="https://www.britishcouncil.org/contact/press/top-languages-uk-needs-most-post-brexit" target="_blank">British Council — Languages for the Future</a> — UK strategic language demand context.</li>
+<li><a href="https://earabic.imes.ed.ac.uk/portal-category/website-directory/" target="_blank">Portail e-Arabic Learners de l’Université d’Édimbourg</a> — relevant educational resource ecosystem.</li>
+<li><a href="https://openarabic.org/arabic-learning-resources/index.html" target="_blank">OpenArabic — Ressources d’apprentissage de l’arabe</a> — relevant learner-resource ecosystem.</li>
+<li><a href="https://classroad.org/al-masdar/" target="_blank">Al-Masdar / CLASSRoad</a> — Arabic teaching and learning resource hub.</li>
+<li><a href="https://welovearabic.wordpress.com/about/" target="_blank">We Love Arabic</a> — Arabic learner/teacher resource site.</li>
+<li><a href="https://www.researchandmarkets.com/report/arabic-language-learning-market" target="_blank">Research and Markets — Arabic Language Learning Market</a> — market/competitive landscape reference.</li>
+</ul>
+<p class="small"><strong>Note méthodologique :</strong> Ce rapport combine une observation du site en ligne, une analyse actuelle de concurrents publics et des sources récentes sur l’écosystème de l’enseignement de l’arabe. Il n’inclut volontairement aucune stratégie de publicité payante. L’évaluation des marchés par pays est stratégique et ne remplace pas les données propriétaires de Google Keyword Planner et de Google Search Console.</p>
+</section>
+</main>
+<footer><div class="wrap">ANAS Arabic · SEO / AEO / GEO Strategic Audit · 27 September 2026</div></footer>
+</body>
+</html>
